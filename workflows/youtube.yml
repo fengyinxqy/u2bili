@@ -1,5 +1,6 @@
 on:
   youtube:
+    # 频道id
     channel_id:
       - UCwXdFgeE9KYzlDdR7TG9cMw #Flutter
       - UCsBjURrPoezykLs9EqgamOA #Fireship
